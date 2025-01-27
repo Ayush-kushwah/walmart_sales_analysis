@@ -97,12 +97,10 @@ This project is an end-to-end data analysis solution designed to extract critica
 ## Project Structure
 
 ```plaintext
-|-- data/                     # Raw data and transformed data
+|-- data/                     # Raw data 
 |-- sql_queries/              # SQL scripts for analysis and queries
 |-- notebooks/                # Jupyter notebooks for Python analysis
 |-- README.md                 # Project documentation
-|-- requirements.txt          # List of required Python libraries
-|-- main.py                   # Main script for loading, cleaning, and processing data
 ```
 ---
 
@@ -119,12 +117,6 @@ Possible extensions to this project:
 - Integration with a dashboard tool (e.g., Power BI or Tableau) for interactive visualization.
 - Additional data sources to enhance analysis depth.
 - Automation of the data pipeline for real-time data ingestion and analysis.
-
----
-
-## License
-
-This project is licensed under the MIT License. 
 
 ---
 
